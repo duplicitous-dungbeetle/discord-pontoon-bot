@@ -46,8 +46,11 @@ python3 pontoon.py
 You can also host it on [Heroku](http://www.heroku.com), [Repl.it](https://repl.it/), or other platforms.
 
 To host it on Heroku:
+
 Create a [Heroku](http://www.heroku.com) account and create a new app
+
 Download the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+
 
 Then run these commands:
 
