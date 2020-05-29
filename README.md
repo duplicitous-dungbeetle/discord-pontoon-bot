@@ -85,6 +85,6 @@ Go to your app's page on your Heroku account, go to the Resources tab, and turn 
 
 Am new to programming, if you have any suggestions/feedback/ideas for me to improve please share it with me.
 
-If there are bugs, please tell inform me too.
+If there are bugs, please inform me too.
 
 
