@@ -30,8 +30,8 @@ Using the command line, ```cd``` to your favourite directory.
 ```
 git clone https://github.com/duplicitous-dungbeetle/discord-pontoon-bot.git
 cd discord-pontoon-bot
-
 ```
+
 Add your own discord bot's token into line 11 in pontoon.py
 (Find out how to create your own discord bot [here](https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token))
 
