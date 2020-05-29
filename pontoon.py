@@ -8,7 +8,7 @@ import os
 import json
 
 
-my_token = "NjkwMTEzNTM3MDMyNTg1MjM2.XtDHtw.VJQahmmtAg4AYWuUUymu-OtEdVE"
+my_token = add_your_discord_bot_token_over_here
 bot = commands.Bot(command_prefix='!!')
 hEmoji = u"\U0001F1ED"
 sEmoji = u"\U0001F1F8"
